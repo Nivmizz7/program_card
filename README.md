@@ -17,6 +17,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
 * collez **https://github.com/nivmizz7/progs1** et cliquez sur importer
+* Le projet est en JavaScript, pour l'utiliser en Block, il faut le convertir en haut du programme.
 
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
